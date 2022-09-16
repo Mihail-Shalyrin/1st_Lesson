@@ -47,7 +47,7 @@ namespace Homework12_sep
                 Console.WriteLine("Иди учить математику! ");
             }
             Console.ReadLine();
-            #endregion
+           
 
                
         }
